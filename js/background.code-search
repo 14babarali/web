@@ -1,0 +1,48 @@
+# Query: background
+# Flags: CaseSensitive WordMatch RegExp
+
+42 results - 1 file
+
+css\style.css:
+   25:    background-color: #317773;/*Scarlet*/
+   40:    background-color:#317773;
+   50:    background-color:#317773;
+   98:    background-color:#edf1eb;
+  103:    background-color:#99F443;
+  107:    background-color:#99F443;
+  111:    background-color:#99F443;
+  115:    background-color:#34e280;
+  126:    background: url(../images/heading-bg.gif) no-repeat;
+  127:    background-size: cover;
+  128:    background-position: center;
+  160:    background-color:#34e280;
+  173:    background-color:#99F443;
+  187:    background-color:lightbe;
+  210:    background-color: var(--light-bg);
+  223:    background-color: var(--white);
+  300:    background-color: var(--white);
+  331:    background:linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url(../images/home-bg.jpg) no-repeat;
+  332:    background-size: cover;
+  333:    background-position: center;
+  369:    background-color: var(--white);
+  403:    background-color: var(--red);
+  425:    background-color: var(--light-bg);
+  442:    background-color: var(--black);
+  465:    background-color: var(--light-bg);
+  479:    background-color: var(--white);
+  501:    background-color: var(--light-bg);
+  560:    background-color: var(--white);
+  568:    background-color: var(--black);
+  576:    background-color: var(--white);
+  581:    background-color: var(--light-bg);
+  601:    background-color: var(--white);
+  627:    background-color: var(--white);
+  640:    background-color: var(--red);
+  646:    background-color: var(--black);
+  726:    background-color: var(--light-bg);
+  754:    background-color: var(--light-bg);
+  787:    background-color: var(--white);
+  811:    background-color: var(--light-bg);
+  842:    background-color: var(--light-bg);
+  846:    background-color: var(--light-bg);
+  918:       background-color: var(--white);
